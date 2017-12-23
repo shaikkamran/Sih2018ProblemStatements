@@ -1,4 +1,4 @@
-# Scrapes result from http://result.vtu.ac.in using BeautifulSoup
+# Scrapes ALL The Problem Statements Of Smart India Hackathon 2018  from https://innovate.mygov.in/sih2018/ site.
 
 from bs4 import BeautifulSoup
 
